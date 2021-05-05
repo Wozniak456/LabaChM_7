@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabaChM_7", "LabaChM_7\LabaChM_7.csproj", "{FD33E2A7-CE10-4DBC-922F-1C5445FA034A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabaChM7_Lib", "LabaChM7_Lib\LabaChM7_Lib.csproj", "{8AEEF035-3374-40B9-9A4E-8D2A206BF63F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD33E2A7-CE10-4DBC-922F-1C5445FA034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD33E2A7-CE10-4DBC-922F-1C5445FA034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD33E2A7-CE10-4DBC-922F-1C5445FA034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD33E2A7-CE10-4DBC-922F-1C5445FA034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEEF035-3374-40B9-9A4E-8D2A206BF63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEEF035-3374-40B9-9A4E-8D2A206BF63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEEF035-3374-40B9-9A4E-8D2A206BF63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEEF035-3374-40B9-9A4E-8D2A206BF63F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B374F8-E584-4905-B54A-5CC11B1737D4}
+	EndGlobalSection
+EndGlobal
